@@ -1,6 +1,6 @@
 # Welcome to Undercover Network repository
 
-## Unboarding agents
+## Onboarding agents
 
 * Deploy this application on Openshift
 * Check webcontent

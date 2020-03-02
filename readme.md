@@ -1,3 +1,5 @@
+![undercover](undercover.jpg)
+
 # Welcome to Undercover Network repository
 
 ## Onboarding agents

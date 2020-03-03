@@ -2,7 +2,7 @@
 
 # UNDERCOVER Agent Onboarding Application
 
-This application helps new hired Undercover Agents
+This application helps new hired Undercover Agents to get familiar with our systems.
 
 It will provide all required information for Agents to log on the UnderCover Network system.
 

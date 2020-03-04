@@ -2,7 +2,9 @@
 
 # UNDERCOVER Agent Onboarding Application
 
-This application helps new hired Undercover Agents to get familiar with our systems.
+![image-20200304101734976](assets/image-20200304101734976.png)
+
+This modern web application helps new hired Undercover Agents to get familiar with our systems.
 
 It will provide all required information for Agents to log on the UnderCover Network system.
 
@@ -15,12 +17,19 @@ Simply deploy this application to a RedHat Openshift cluster running on IBM Clou
 - A command line
 - A Web Browser
 
-## INSTRUCTIONS :
+## INSTRUCTIONS
 
-- Access your cluster console with IBM Cloud
-- ...
-- ...
-- ...
-- ...
-- Open the route
+- Access your cluster console with IBM Cloud as a developer
+
+- Create new modern web application from this Git
+
+  - Don't forget to create a route to access it
+
+- Open your web browser and follow instructions
+
+  
+
+**<u>NEW AGENT WELCOME ON BOARD!!!</u>**
+
+
 

@@ -1,8 +1,10 @@
-![](assets/undercover.jpg)
+
 
 # UNDERCOVER Agent Onboarding Application
 
 ## ( Archived - Do not use - Top Secret)
+
+![undercover](assets/undercover.png)
 
 ![image-20200304101734976](assets/image-20200304101734976.png)
 
@@ -21,17 +23,19 @@ Simply deploy this application to a RedHat Openshift cluster running on IBM Clou
 
 ## INSTRUCTIONS
 
-- From your IBM Cloud console, access your cluster console as a developer
+- From your IBM Cloud console, access your cluster console as a `developer`
+- Create new modern web application from this Git in `Undercover` project
+  - Don't forget to create a `route` to access it
+- Open your web browser 
+- Use generated password with Undercover server
 
-- Create new modern web application from this Git
+> Don't forget to change your password after first login
 
-  - Don't forget to create a route to access it
+**<u>WELCOME ON BOARD NEW AGENT!!!</u>**
 
-- Open your web browser and follow instructions
+![](assets/undercover.jpg)
 
-  
 
-**<u>NEW AGENT WELCOME ON BOARD!!!</u>**
 
 
 

@@ -1,5 +1,0 @@
-- var text = "BXYBAYBX"
-div.wrapper
-    div.letters
-        each letter in text
-          span.letter !{letter}

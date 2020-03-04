@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Button from 'react-bootstrap/Button';
+import '@fortawesome/fontawesome-free/css/all.css';
 import logo from './logo.svg';
 import './App.scss';
 import './RandomText.scss';
@@ -48,7 +51,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, generate your One-time-Password by clicking on the following button.
         </p>
-        <button type="button" onClick={this.showLetters}>Generate One-time-password</button>
+        <Button variant="danger" size="lg" onClick={this.showLetters}><i class="fa fa-exclamation-triangle"></i> Generate One-time-password  <i class="fa fa fa-exclamation-triangle"></i></Button>
         <Letters letters={text} state={this.state.showLetters}/>
       </div>
     );

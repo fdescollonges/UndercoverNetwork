@@ -4,7 +4,7 @@
 
 ## ( Archived - Do not use - Top Secret)
 
-![undercover](assets/undercover.png)
+<img src="assets/undercover.png" alt="undercover" style="zoom:50%;" />
 
 ![image-20200304101734976](assets/image-20200304101734976.png)
 

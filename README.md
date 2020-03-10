@@ -4,11 +4,11 @@
 
 ## ( Archived - Do not use - Top Secret)
 
-<img src="assets/undercover.png" alt="undercover" style="zoom:50%;" />
+![](assets/undercover.png)
 
 ![image-20200304101734976](assets/image-20200304101734976.png)
 
-This modern web application helps new hired Undercover Agents to get familiar with our systems.
+This **modern web application** helps new hired Undercover Agents to get familiar with our systems.
 
 It will provide all required information for Agents to log on the UnderCover Network system.
 
@@ -16,10 +16,9 @@ Simply deploy this application to a RedHat Openshift cluster running on IBM Clou
 
 ### You need :
 
-- Access to a RedHat OpenShift Cluster on IBM Cloud i.e. ROKS4.3
-- This GitHub repository
-- A command line
 - A Web Browser
+- Access to a RedHat OpenShift Cluster on IBM Cloud i.e. ROKS4.3
+- This GitHub repository URL
 
 ## INSTRUCTIONS
 

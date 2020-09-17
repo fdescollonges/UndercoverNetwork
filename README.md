@@ -22,29 +22,48 @@ Simply deploy this application to a RedHat Openshift cluster running on IBM Clou
 
 ## INSTRUCTIONS
 
-- Log in IBM Cloud (https://cloud.ibm.com) 
-- You need to find an Openshift Cluster
-  - One said the famous hacker Vincent Perrin has open its account to every one.
+- #### Log in IBM Cloud (https://cloud.ibm.com) 
+- #### You need to find an Openshift Cluster
+  
+  - One said the famous hacker "Vincent Perrin" has open its account to every one.
     - You might find his account "under" your name  (click on your name in the console or [here](https://cloud.ibm.com/?bss_account=f8d190703020c2efd6f009d24c22a9af))
-    - If you see a cluster, open it
+    - If you see a cluster, open it (or click [here](https://cloud.ibm.com/kubernetes/clusters/bt94gcmd0kj49ac7nfog/overview?bss_account=f8d190703020c2efd6f009d24c22a9af))
 
 ![image-20200917151418908](assets/image-20200917151418908.png)
 
-- Open the Openshift Console
+- #### Open the Openshift Console
 
-  - You need to allow pop-up windows as a new tab will open
-  - First access should take a few second
+  - You need to **allow pop-up** windows as a new tab will open
+  - First access should take a few seconds
 
-- **As a developer, <u>SELECT YOUR TEAM PROJECT</u> not "default" project**
+- #### **As a developer, <u>SELECT YOUR TEAM PROJECT</u> not "default" project**
 
   ![image-20200917151811301](assets/image-20200917151811301.png)
 
-- Create new modern web application **FROM GIT** from this Git in your team's project
-  - Don't forget to create a `route` to access it
-- Open your web browser 
-- Use generated password with Undercover server
+- #### Create new modern web application **FROM GIT** from this Git in your team's project
+  
+  - Copy the URL from this Git repository
+  
+  - Check this a Modern Webapp
+  
+    ![image-20200917153325414](assets/image-20200917153325414.png)
+  
+    - **<u>Change</u>** the name of your application
+  
+      ![image-20200917153510852](assets/image-20200917153510852.png)
+  
+  - And hit the **Create** Button ![image-20200917153441240](assets/image-20200917153441240.png)
+  
+    - It takes a few minutes to build and deploy the application
+    - Look at the logs if you want to discover under the cover
 
-> Don't forget to change your password after first login
+#### Once the application is deploy (blue circle), click on Open URL
+
+![image-20200917153603053](assets/image-20200917153603053.png)
+
+#### Generate you One-time-password to unlock the undercover server
+
+
 
 **<u>WELCOME ON BOARD NEW AGENT!!!</u>**
 

@@ -57,7 +57,7 @@ Simply deploy this application to a RedHat Openshift cluster running on IBM Clou
     - It takes a few minutes to build and deploy the application
     - Look at the logs if you want to discover under the cover
 
-#### Once the application is deploy (blue circle), click on Open URL
+#### Once the application is deployed (green checkmark, blue circle), click on Open URL
 
 ![image-20200917153603053](assets/image-20200917153603053.png)
 

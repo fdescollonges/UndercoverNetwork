@@ -22,8 +22,24 @@ Simply deploy this application to a RedHat Openshift cluster running on IBM Clou
 
 ## INSTRUCTIONS
 
-- From your IBM Cloud console, access your cluster console as a `developer`
-- Create new modern web application from this Git in `Undercover` project
+- Log in IBM Cloud (https://cloud.ibm.com) 
+- You need to find an Openshift Cluster
+  - One said the famous hacker Vincent Perrin has open its account to every one.
+    - You might find his account "under" your name  (click on your name in the console or [here](https://cloud.ibm.com/?bss_account=f8d190703020c2efd6f009d24c22a9af))
+    - If you see a cluster, open it
+
+![image-20200917151418908](assets/image-20200917151418908.png)
+
+- Open the Openshift Console
+
+  - You need to allow pop-up windows as a new tab will open
+  - First access should take a few second
+
+- **As a developer, <u>SELECT YOUR TEAM PROJECT</u> not "default" project**
+
+  ![image-20200917151811301](assets/image-20200917151811301.png)
+
+- Create new modern web application **FROM GIT** from this Git in your team's project
   - Don't forget to create a `route` to access it
 - Open your web browser 
 - Use generated password with Undercover server

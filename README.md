@@ -24,7 +24,7 @@ Simply deploy this application to a RedHat Openshift cluster running on IBM Clou
 - #### Log in IBM Cloud (https://cloud.ibm.com) 
 - #### You need to find an Openshift Cluster
   
-  - One said the famous hacker Franck Descollonges" has open its account to every one.
+  - One said the famous hacker "Franck Descollonges" has open its account to every one.
     - You might find his account "under" your name  (click on your name in the console or [here](https://cloud.ibm.com/?bss_account=6c8f4926207a904b377aee72d8cd861e))
     - If you see a cluster, open it (or click [here](https://cloud.ibm.com/kubernetes/clusters/c19h9sjf0ecruimc5ngg/overview?region=eu-de&resourceGroup=799d42eab36346bdac7c23cf2c874c17&bss_account=6c8f4926207a904b377aee72d8cd861e))
 
@@ -44,10 +44,8 @@ Simply deploy this application to a RedHat Openshift cluster running on IBM Clou
   - Copy the URL from this Git repository
   
   - Check this a NodeJS application
-  
-    ![image-20200917153325414](assets/image-20200917153325414.png)
-  
-    - **<u>Change</u>** the name of your application
+
+  - **<u>Change</u>** the name of your application
   
       ![image-20200917153510852](assets/image-20200917153510852.png)
   
@@ -67,8 +65,3 @@ Simply deploy this application to a RedHat Openshift cluster running on IBM Clou
 **<u>WELCOME ON BOARD NEW AGENT!!!</u>**
 
 ![](assets/undercover.jpg)
-
-
-
-
-
